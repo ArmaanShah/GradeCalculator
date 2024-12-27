@@ -2,7 +2,6 @@
 /*
  * GradeCalculator.java
  * Author:  Armaan Shah
- * Submission Date: October 4rd 2024
  *
  *This program does the following:
  *This code calculates the current letter grade, the current grade, 
